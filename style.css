@@ -1,0 +1,118 @@
+/* collapse-section */
+
+
+.collapse-section{
+    background-color: #fafafa;
+    padding: 100px 0;
+}
+
+.card{
+    width: 50%;
+    margin: 0 auto;
+}
+
+/* tab-section */
+
+.tab-section{
+    background-color: rgb(168, 167, 167);
+    padding: 50px 0;
+}
+
+.tab-section nav {
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.tab-section nav a{
+    display: inline-block;
+    background-color: #ddd !important;
+}
+
+/* carousel-section */
+
+.carousel-section{
+    padding: 50px 0;
+    background-color: rgb(153, 152, 152);
+}
+
+.carousel-item img{
+    margin: 0 auto;
+}
+
+/* modal section */
+
+.model-section{
+    padding: 50px 0;
+    background-color: #ddd;
+}
+
+/* scrollspy section */
+
+.scrollspy{
+    background-color: #fafafa;
+    padding: 50px 0;
+}
+
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: .5rem;
+    overflow: auto;
+  }
+
+
+  /* progress-section */
+
+
+.progress-section{
+    padding: 50px 0;
+    background-color: rgb(170, 169, 169);
+}
+
+/* popover-section */
+
+.popover-section{
+    padding: 100px 0;
+    background-color: rgb(216, 214, 214);
+}
+
+/* tooltipe section */
+
+.tooltipe{
+    background-color: #ddd;
+    padding: 50px 0;
+}
+
+/* pagination */
+
+.pagination{
+    padding: 50px 0;
+    background-color: #fff;
+}
+
+.Page{
+    margin: 0 auto;
+}
+
+
+/* toast-section */
+
+.toast-section{
+    padding: 50px 0;
+    background-color: #ddd;
+}
+
+
+/* dropdown-button */
+
+.dropdown-button{
+    padding: 100px 0;
+    background-color: #f5eaea;
+}
+
+/* breadcrumb */
+
+.breadcrumb-section{
+    padding: 50px 0;
+    background-color: rgb(153, 152, 152);
+}
